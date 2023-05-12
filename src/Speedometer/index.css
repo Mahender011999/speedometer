@@ -1,0 +1,38 @@
+.container{
+    text-align: center;
+    background-color: #07080c;
+    height: 100vh;
+    
+  }
+.head{
+    color: #ffffff;
+    font-family: 'Roboto';
+}
+.image{
+    height: 400px;
+    width: 700px;
+}
+.button1{
+    border-color:#0b69ff;
+    background-color:#0b69ff;
+    color: #ffffff;
+    font-size: 15px;
+    margin: 20px;
+    border-radius: 8px;
+}
+.button2{
+    border-color: #cbd5e1;
+    background-color: #07080c;
+    color: #cbd5e1;
+    font-size: 15px;
+    
+    border-radius: 8px
+}
+.para{
+    color: #ffffff;
+    font-family: 'Roboto';
+    font-size: 20px;
+}
+.p{
+    color: aqua;
+}
